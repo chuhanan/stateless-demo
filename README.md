@@ -32,6 +32,6 @@
 # why stateless #
 
 # compare #
-!(image)[http://upload-images.jianshu.io/upload_images/48180-8c21fd21da7f3683.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240]
+![image](http://upload-images.jianshu.io/upload_images/48180-8c21fd21da7f3683.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
