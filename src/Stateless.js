@@ -13,4 +13,13 @@ const stateLess = ( props, { content="2341234", title="asdasfsd" } ) => {
   </div>
 }
 
+// const stateLess2 = ( { name="name" }, { content="2341234", title="asdasfsd" } ) => {
+//   return <div>
+//     <p>{name}</p>
+//     <p>{title}</p>
+//     <p>{ content }</p>
+//     <p>this is a stateless component </p>
+//   </div>
+// }
+
 export default stateLess

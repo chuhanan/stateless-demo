@@ -4,14 +4,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-// function handleWindowResize() {
-//   if(viewport.width !== window.innerWidth ||
-//     viewport.height !== window.innerHeight
-//   ){
-//     viewport = { width:window.innerWidth, height: window.innerHeight }
-//   }
-// }
-
 const withViewport = (ComposedComponent) => {
   return class Viewport extends React.Component{
     constructor(...args){
@@ -43,20 +35,15 @@ const withViewport = (ComposedComponent) => {
   }
 }
 
-const Input = ({ label, name, value, viewport, ...props }) => {
+const Input = ({ name, value, viewport }) => {
   console.log(viewport)
   return (
-    <label
-      htmlFor={name}
-      children={label}
-    >
-      <input
-        name={name}
-        type="text"
-        value={ value || ""}
-        style={{width:viewport.width/5}}
-      />
-    </label>
+    <input
+      name={name}
+      type="text"
+      value={ value || ""}
+      style={{width:viewport.width/5}}
+    />
   )
 }
 Input.propTypes = {

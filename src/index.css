@@ -3,3 +3,11 @@ body {
   padding: 0;
   font-family: sans-serif;
 }
+.App{
+  margin-top:30px;
+}
+.wrapper{
+  border:1px solid #ddd;
+  margin:50px auto;
+  width: 400px;
+}
