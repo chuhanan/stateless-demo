@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dafb0461-05a2-4263-b2c0-c4998f92a05d" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gitignore" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/App.js" afterPath="$PROJECT_DIR$/src/App.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Stateless.js" afterPath="$PROJECT_DIR$/src/Stateless.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.css" afterPath="$PROJECT_DIR$/src/index.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/mixin.js" afterPath="$PROJECT_DIR$/src/mixin.js" />
-    </list>
+    <list default="true" id="dafb0461-05a2-4263-b2c0-c4998f92a05d" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -22,11 +15,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="App.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="29" lean-forward="true" selection-start-line="7" selection-start-column="29" selection-end-line="10" selection-end-column="3" />
+            <state relative-caret-position="833">
+              <caret line="49" column="19" lean-forward="true" selection-start-line="49" selection-start-column="19" selection-end-line="49" selection-end-column="19" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -47,8 +40,8 @@
       <file leaf-file-name="Stateless.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Stateless.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="24" column="24" lean-forward="true" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+            <state relative-caret-position="68">
+              <caret line="6" column="15" lean-forward="false" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -88,15 +81,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="306">
-                <caret line="18" column="3" lean-forward="false" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+              <first_editor relative-caret-position="51">
+                <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
                 <folding>
-                  <marker date="1497537471826" expanded="true" signature="232:366" ph="{...}" />
-                  <marker date="1497537471826" expanded="true" signature="275:364" ph="&lt;div/&gt;" />
+                  <marker date="1497854901992" expanded="true" signature="246:378" ph="{...}" />
+                  <marker date="1497854901992" expanded="true" signature="289:376" ph="&lt;div/&gt;" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -157,11 +150,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/stateless-demo1.js" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/index.css" />
         <option value="$PROJECT_DIR$/src/mixin.js" />
         <option value="$PROJECT_DIR$/src/Stateless.js" />
         <option value="$PROJECT_DIR$/src/App.js" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -177,8 +170,8 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="582" />
-    <option name="y" value="65" />
+    <option name="x" value="442" />
+    <option name="y" value="50" />
     <option name="width" value="1710" />
     <option name="height" value="932" />
   </component>
@@ -328,15 +321,15 @@
       <updated>1497489439913</updated>
       <workItem from="1497489444961" duration="16148000" />
       <workItem from="1497585444591" duration="774000" />
-      <workItem from="1497841060141" duration="1728000" />
+      <workItem from="1497841060141" duration="2596000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18650000" />
+    <option name="totallyTimeSpent" value="19518000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="582" y="65" width="1710" height="932" extended-state="0" />
+    <frame x="442" y="50" width="1710" height="932" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14403778" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -416,8 +409,8 @@
           <first_editor relative-caret-position="306">
             <caret line="18" column="3" lean-forward="false" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
             <folding>
-              <marker date="1497537471826" expanded="true" signature="232:366" ph="{...}" />
-              <marker date="1497537471826" expanded="true" signature="275:364" ph="&lt;div/&gt;" />
+              <marker date="1497854901992" expanded="true" signature="246:378" ph="{...}" />
+              <marker date="1497854901992" expanded="true" signature="289:376" ph="&lt;div/&gt;" />
             </folding>
           </first_editor>
           <second_editor />
@@ -510,8 +503,8 @@
           <first_editor relative-caret-position="306">
             <caret line="18" column="3" lean-forward="false" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
             <folding>
-              <marker date="1497537471826" expanded="true" signature="232:366" ph="{...}" />
-              <marker date="1497537471826" expanded="true" signature="275:364" ph="&lt;div/&gt;" />
+              <marker date="1497854901992" expanded="true" signature="246:378" ph="{...}" />
+              <marker date="1497854901992" expanded="true" signature="289:376" ph="&lt;div/&gt;" />
             </folding>
           </first_editor>
           <second_editor />
@@ -594,28 +587,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="306">
-            <caret line="18" column="3" lean-forward="false" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
-            <folding>
-              <marker date="1497537471826" expanded="true" signature="232:366" ph="{...}" />
-              <marker date="1497537471826" expanded="true" signature="275:364" ph="&lt;div/&gt;" />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/stateless-demo1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="22" column="8" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/index.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -646,19 +617,41 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Stateless.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="24" column="24" lean-forward="true" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+        <state relative-caret-position="68">
+          <caret line="6" column="15" lean-forward="false" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="15" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="29" lean-forward="true" selection-start-line="7" selection-start-column="29" selection-end-line="10" selection-end-column="3" />
+        <state relative-caret-position="833">
+          <caret line="49" column="19" lean-forward="true" selection-start-line="49" selection-start-column="19" selection-end-line="49" selection-end-column="19" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/stateless-demo1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="22" column="8" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="51">
+            <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <folding>
+              <marker date="1497854901992" expanded="true" signature="246:378" ph="{...}" />
+              <marker date="1497854901992" expanded="true" signature="289:376" ph="&lt;div/&gt;" />
+            </folding>
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

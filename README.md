@@ -4,12 +4,13 @@
 
 # what is stateless component? 
 `version:react 0.14+ `
+- 一个纯函数返回一个组件
 
 ```javascript
 import React from 'react';
 const StateLess = ( props, context ) => {
   console.log( props, context )
-  return <div>l.
+  return <div>
     <p>props:{props.title}</p>
     <p>this is a stateless component </p>
   </div>
