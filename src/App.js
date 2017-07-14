@@ -10,8 +10,11 @@ class App extends Component {
     super(props)
   }
 
+  
+
   onClick(){
     alert('u clicked')
+    console.log("ceshi sadasfasdfasd");
   }
 
   render() {
