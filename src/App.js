@@ -10,6 +10,11 @@ class App extends Component {
     super(props)
   }
 
+  componentWillReceiveProps(nextProps) {
+    console.log(nextProps)
+  }
+  
+
   onClick(){
     alert('u clicked')
   }
